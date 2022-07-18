@@ -1,11 +1,12 @@
-# buildspace Wave Portal 👋 
+# BookWall 
 
 ### **Welcome!**
-To get started with this course, clone this repo and follow these commands:
+To copy this react site and connect it to your contract clone the repo and run
 
 1. Run `npm install` at the root of your directory
 2. Run `npm run start` to start the project
 3. Start coding!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
+this was made based on the buildspace waveportal code
+
+
